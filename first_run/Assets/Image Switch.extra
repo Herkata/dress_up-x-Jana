@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "40124625-5191-fd39-3676-dc8ca47b3581",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Image Switch",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

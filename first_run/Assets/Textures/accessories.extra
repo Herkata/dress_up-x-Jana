@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "83ce3544-c709-c7ca-d23a-853fa13c1c00",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "accessories",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

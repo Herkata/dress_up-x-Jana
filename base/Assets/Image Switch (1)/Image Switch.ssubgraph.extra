@@ -1,0 +1,19 @@
+[
+  {
+    "guid": {
+      "a": "197ae910-bb2c-f9ed-ec87-4a6d1bbac72b",
+      "b": ""
+    },
+    "extraType": "ResItemVSSubgraph",
+    "name": "Image Switch",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": "",
+    "assetPackageID": "7423691421850566672",
+    "resourceFilePath": "C:\\Users\\Kata\\AppData\\Roaming\\EffectHouse\\package\\7423691421850566672\\Image Switch.ssubgraph",
+    "combinedWithNodeLibary": true,
+    "assetID": "7423691421850566672"
+  }
+]
