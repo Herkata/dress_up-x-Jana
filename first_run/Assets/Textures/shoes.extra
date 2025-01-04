@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "8254e73d-9bf7-add3-34b7-514c4c486821",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "shoes",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

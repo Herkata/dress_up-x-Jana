@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "1f659496-5d4e-a4fe-3d08-a5364ba15ecc",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "base_arrows",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

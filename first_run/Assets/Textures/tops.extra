@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "42947fe1-709f-b840-9ad1-71bb7054b3cb",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "tops",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "fc16ddaa-0936-8b39-0453-0a18df33b3f0",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "dresses",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

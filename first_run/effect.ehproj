@@ -1,6 +1,6 @@
 {
   "name": "",
-  "lastModified": "Fri, 03 Jan 2025 12:28:17 GMT",
+  "lastModified": "Sat, 04 Jan 2025 19:55:54 GMT",
   "version": "4.9.2",
   "renderNames": {
     "0": "Default Layer",
@@ -68,9 +68,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 75815318,
-  "durationCreation": 76082078,
-  "durationBackground": 71942166,
+  "durationToCreate": 189072239,
+  "durationCreation": 114808986,
+  "durationBackground": 103732811,
   "effectHint": "",
   "templateID": "templateID_none",
   "overwriteBuiltinGAN": 1,
@@ -95,6 +95,8 @@
     "resourceUrl": "./BuiltinResource/preview/video/preview_environment/ground3.mp4"
   },
   "fromNewUserGuide": false,
-  "selectedIdList": [],
+  "selectedIdList": [
+    "folder:C:\\Users\\Kata\\source\\repos\\dress_up-x-Jana\\first_run\\Assets\\Textures\\base_arrows"
+  ],
   "lastSceneView": 1
 }

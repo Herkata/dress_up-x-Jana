@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "dae621dd-5e70-9786-561b-b6d8f243b52a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "pants6",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\Kata\\source\\repos\\dress_up-x-Jana\\Prototype1\\Pants\\pants6.png"
+  }
+]

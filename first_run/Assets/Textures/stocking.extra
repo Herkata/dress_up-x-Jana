@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "a10c3fd2-7ed2-b999-f9c9-5501658de65f",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "stocking",
+    "expandInPanel": false,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

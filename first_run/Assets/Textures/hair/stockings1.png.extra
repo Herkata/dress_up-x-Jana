@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "4880aa1e-607b-0cfe-0885-fad7c0b5a297",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "stockings1",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\Kata\\source\\repos\\dress_up-x-Jana\\Prototype1\\Stockings\\stockings1.png"
+  }
+]
